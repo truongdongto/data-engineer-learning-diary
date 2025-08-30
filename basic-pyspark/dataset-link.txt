@@ -1,0 +1,3 @@
+Link for practice files in this exercise:
+https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q3.zip
+https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2019_Q4.zip
